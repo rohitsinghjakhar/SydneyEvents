@@ -3,8 +3,8 @@
 Sydney Events is a web application that automatically scrapes and lists events happening in Sydney, Australia. Users can browse event details and purchase tickets after opting in with their email. The website updates event listings daily through automated web scraping.
 
 🚀 Features
-✅ Automated Event Scraping – Fetches event data daily from sites like TimeOut Sydney, Eventbrite, and Sydney Opera House.
-✅ Event Listing Page – Displays event details such as name, date, location, and description.
+✅ Automated Event Scraping – Fetches event data daily from sites like TimeOut Sydney, Eventbrite, and Sydney Opera House. >>
+✅ Event Listing Page – Displays event details such as name, date, location, and description. >>
 ✅ Ticket Purchase Flow – Users enter their email before being redirected to the ticketing website.
 ✅ React.js Frontend – A modern and responsive UI for an engaging experience.
 ✅ Spring Boot Backend – Manages API endpoints, email collection, and database operations.
